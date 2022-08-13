@@ -1,0 +1,78 @@
+@import url(button.css);
+@import url(input.css);
+@import url(toastMessage.css);
+@import url(table.css);
+@import url(combobox.css);
+@import url(dialog.css);
+
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 13px;
+    font-family: GoogleSans-Regular;
+    height: 100vh;
+    width: 100%;
+}
+
+@font-face {
+    font-family: GoogleSans-Regular;
+    src: url(../../asset/font/GoogleSans-Regular.otf);
+}
+
+@font-face {
+    font-family: GoogleSans-Bold;
+    src: url(../../asset/font/GoogleSans-Bold.otf);
+}
+
+@font-face {
+    font-family: GoogleSans-Italic;
+    src: url(../../asset/font/GoogleSans-Italic.otf);
+}
+
+.text-bold{
+    font-family: GoogleSans-Bold;
+}
+
+.text-italic{
+    font-family: GoogleSans-Italic;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.mt8 {
+    margin-top: 8px;
+}
+ 
+.m-row{
+    width: 100%;
+    display: flex;
+    margin-top: 4px;
+}
+
+label{
+    margin-top: 4px;
+    padding-bottom: 4px;
+}
+
+.icon{
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+

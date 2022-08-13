@@ -1,0 +1,8 @@
+.ms-combobox{
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    height: 40px;
+    outline: none;
+    padding-left: 16px;
+    width: 200px;
+}
