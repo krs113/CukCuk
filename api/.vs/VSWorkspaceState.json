@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Controllers",
-    "\\Entities",
-    "\\Enums"
+    ""
   ],
-  "SelectedNode": "\\Controllers\\EmployeesController.cs",
+  "SelectedNode": "\\obj",
   "PreviewInSolutionExplorer": false
 }
